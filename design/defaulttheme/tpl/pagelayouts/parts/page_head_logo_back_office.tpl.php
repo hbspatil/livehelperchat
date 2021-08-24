@@ -1,0 +1,2 @@
+<a class="navbar-brand" href="<?php echo erLhcoreClassDesign::baseurl()?>" title="<?php echo htmlspecialchars(erLhcoreClassModelChatConfig::fetch('customer_company_name')->current_value)?>">
+	<div class="img-responsive"> Intentico Agent Chat </div> </a>
